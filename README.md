@@ -6,7 +6,7 @@ GH repo to blogpost https://quickwit.io/blog/performance-investigation
 
 * Rust https://www.rust-lang.org/tools/install
 * https://github.com/bazhenov/cargo-export
-
+* Linux for the `strace` calls and glibc parameters (`ALLOC_MMAP_THRESHOLD_`)
 
 ## Run
 
